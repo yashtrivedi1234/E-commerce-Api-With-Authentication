@@ -84,3 +84,32 @@ A RESTful API built with Node.js, Express, and MongoDB to manage users, products
 <img width="1470" alt="Screenshot 2025-05-29 at 12 26 23 AM" src="https://github.com/user-attachments/assets/fdb91511-3ed7-45d9-960b-19187f28f9a4" />
 
 ⸻
+
+### Product API Endpoints
+
+⸻
+
+## Add a new product 
+<img width="1470" alt="Screenshot 2025-05-29 at 12 27 49 AM" src="https://github.com/user-attachments/assets/23168126-12ec-4a89-ab0b-053de8e0e3cf" />
+
+⸻
+
+## Get all products 
+<img width="1470" alt="Screenshot 2025-05-29 at 12 31 52 AM" src="https://github.com/user-attachments/assets/3e5348d9-3e00-4972-94e1-c5ea0ef14d83" />
+
+⸻
+
+## Get product by ID 
+<img width="1470" alt="Screenshot 2025-05-29 at 12 33 30 AM" src="https://github.com/user-attachments/assets/99bb00cc-ed07-45ec-b72e-32b2228a6509" />
+
+⸻
+
+## Update product by ID 
+<img width="1470" alt="Screenshot 2025-05-29 at 12 35 21 AM" src="https://github.com/user-attachments/assets/908226b4-11c0-4084-a5a5-279714400715" />
+
+⸻
+
+## Delete product by ID
+<img width="1470" alt="Screenshot 2025-05-29 at 12 36 31 AM" src="https://github.com/user-attachments/assets/1dbe3b8a-31d9-434c-b596-dfb7c842e6f0" />
+
+⸻
