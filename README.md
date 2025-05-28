@@ -65,7 +65,7 @@ A RESTful API built with Node.js, Express, and MongoDB to manage users, products
 - Use tools like Postman or Thunder Client to test the API endpoints.
 - Include the JWT token in the Auth header for protected routes in this format:
 - Key: Authorization
--Value: <Login Token>
+-Value: Login Token ( You get when you successfully login )
 
 ⸻
 
