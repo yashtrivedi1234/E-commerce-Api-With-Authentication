@@ -67,7 +67,7 @@ A RESTful API built with Node.js, Express, and MongoDB to manage users, products
 
 ⸻
 
-### Screen Shots
+## Screen Shots
 
 ⸻
 
