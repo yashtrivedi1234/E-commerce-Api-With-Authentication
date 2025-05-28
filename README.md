@@ -66,11 +66,3 @@ A RESTful API built with Node.js, Express, and MongoDB to manage users, products
 - Include the JWT token in the Auth header for protected routes in this format:
 
 ⸻
-
-## Screenshots
-
-⸻
-
-## Demo Video
-
-⸻
