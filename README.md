@@ -7,24 +7,24 @@ A RESTful API built with Node.js, Express, and MongoDB to manage users, products
 ⸻
 
 ## Features
-•	🔐 User registration and login with secure password hashing.
-•	🛒 JWT-based authentication and authorization to protect endpoints.
-•	📦 Create, read, update, and delete products.
-•	🛍️ Add, remove, clear, and update product quantities in user carts.
-•	🛠️ Input validation and robust error handling (can be added).
-•	🔄 Modular and scalable backend architecture.
+-	🔐 User registration and login with secure password hashing.
+-	🛒 JWT-based authentication and authorization to protect endpoints.
+-	📦 Create, read, update, and delete products.
+-	🛍️ Add, remove, clear, and update product quantities in user carts.
+-	🛠️ Input validation and robust error handling (can be added).
+-	🔄 Modular and scalable backend architecture.
 
 ⸻
 
 ## Technologies Used
-•	**Node.js** — JavaScript runtime environment.
-•	**Express** — Web framework for Node.js.
-•	**MongoDB** — NoSQL database for storing users, products, and carts.
-•	**Mongoose** — ODM for MongoDB schema modeling.
-•	**bcryptjs** — Password hashing for user security.
-•	**jsonwebtoken**— JWT creation and verification for authentication.
-•	**dotenv** — Environment variable management.
-•	**cors** — Middleware for Cross-Origin Resource Sharing.
+-	**Node.js** — JavaScript runtime environment.
+-	**Express** — Web framework for Node.js.
+-	**MongoDB** — NoSQL database for storing users, products, and carts.
+-	**Mongoose** — ODM for MongoDB schema modeling.
+-	**bcryptjs** — Password hashing for user security.
+-	**jsonwebtoken**— JWT creation and verification for authentication.
+-	**dotenv** — Environment variable management.
+-	**cors** — Middleware for Cross-Origin Resource Sharing.
 
 ⸻
 
