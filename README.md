@@ -81,5 +81,6 @@ A RESTful API built with Node.js, Express, and MongoDB to manage users, products
 ⸻
 
 ## Login and get JWT token
+<img width="1470" alt="Screenshot 2025-05-29 at 12 26 23 AM" src="https://github.com/user-attachments/assets/fdb91511-3ed7-45d9-960b-19187f28f9a4" />
 
 ⸻
